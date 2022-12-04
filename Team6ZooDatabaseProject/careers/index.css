@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.input{
+    margin-top: 2%;
+}
+
+#customer-login-form{
+    margin-top: 10%;
+}
+
+#login-menu{
+    font-size: 30px;
+}
+
+.username{
+    width: 20%;
+    height: 30px;
+    border-style: solid;
+}
+
+.password{
+    width: 20%;
+    height: 30px;
+    border-style: solid;
+}
+
+.login{
+    width: 20%;
+    font-size: 15px;
+    margin-top: 3%;
+    background-color: green;
+    color: white;
+    border-radius: 5%;
+    border-style: solid;
+    border-color: green;
+ }
+
+ .login:hover{
+   background-color: darkgreen;
+ }
+
+ #home-link{
+    margin-top: 3%;
+ }
